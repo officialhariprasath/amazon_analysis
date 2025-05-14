@@ -64,12 +64,11 @@ To conduct an end-to-end exploratory data analysis (EDA) on Amazon India's sales
 
 | Visualization | Description |
 |---------------|-------------|
-| ![Revenue by Category](images/revenue_by_category.png) | Contribution of each category to total sales |
-| ![Monthly Trends](images/monthly_trend.png) | Revenue trends across April to June |
-| ![Top States](images/statewise_sales.png) | State-wise sales distribution |
-| ![Customer Type Analysis](images/customer_type.png) | Order behavior by customer type |
+| ![Revenue by Category](images/Percent_Prod_Revenuw.png) | Contribution of each category to total sales |
+| ![Monthly Trends](images/Avg_MOV.png) | Revenue trends across April to June |
+| ![Top States](images/Top_Products_Top_States.png) | State-wise sales distribution |
+| ![Customer Type Analysis](images/Sales_Prod_Size.png) | Order behavior by customer type |
 
-*(You can upload these outputs in the "images" folder and link here)*
 
 ---
 
