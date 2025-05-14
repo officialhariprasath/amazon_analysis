@@ -64,10 +64,11 @@ To conduct an end-to-end exploratory data analysis (EDA) on Amazon India's sales
 
 | Visualization | Description |
 |---------------|-------------|
-| ![Revenue by Category](images/Percent_Prod_Revenuw.png) | Contribution of each category to total sales |
-| ![Monthly Trends](images/Avg_MOV.png) | Revenue trends across April to June |
-| ![Top States](images/Top_Products_Top_States.png) | State-wise sales distribution |
-| ![Customer Type Analysis](images/Sales_Prod_Size.png) | Order behavior by customer type |
+| ![Monthly Product Revenue](images/Avg_MOV.png) | 'Set' leads monthly revenue; Western Dress shows 33% growth from April to June. |
+| ![Product Revenue Share](images/Percent_Prod_Revenuw.png) | Sets contribute ~50% of total revenue; Western Dress has strong pricing and impact. |
+| ![Sales by Size](images/Sales_Prod_Size.png) | M, L, and S sizes account for majority revenue. XL+ sizes underperform. |
+| ![Statewise Product Trends](images/Top_Products_Top_States.png) | Top states prefer Sets; Western Dresses growing in higher-revenue states. |
+
 
 
 ---
